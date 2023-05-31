@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Scrimba"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project-2"
+	}
+}
